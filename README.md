@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/docker.svg" alt="docker" width="40" height="40"/> 
