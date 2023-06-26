@@ -1,11 +1,9 @@
-Hi! My name is Eli Simhayev. 
-I worked as ML Research Engineer at BeyondMinds in the Tabular & Time-Series domain. 
-Before that, I completed my M.Sc research on uncertainty estimation at Ben-Gurion University
-and worked on generating tabular synthetic data using GANs.
+Hey there! I'm Eli Simhayev. 
 
-I'm passionate about applied research and ML systems in large-scale. Programming & Machine Learning are important aspects of my personal life, as well as professional. 
+My interests are Time Series and Deep Learning. These days, I'm working on neuroscience, where I bring these two fields together. Before that, I was working as an ML Research Engineer at BeyondMinds, where my primary focus was on Time-Series analysis. I completed my M.Sc research at Ben-Gurion University, focusing about uncertainty estimation in deep learning. I'm passionate about applied research and ML systems on a big scale. 
 
 In my free time, I like to practice Vipassana meditation 🙂
+
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/>
