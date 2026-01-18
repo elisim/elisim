@@ -1,7 +1,6 @@
 Hey there! I'm Eli Simhayev. 
 
 My interests are Time Series and Deep Learning. These days, I'm working on Deep Learning in Neuroscience.
-In my free time, I like to practice Vipassana meditation 🙂
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/>
